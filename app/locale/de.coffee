@@ -52,7 +52,7 @@ module.exports = nativeDescription: "Deutsch", englishDescription: "German", tra
     send_password: "Wiederherstellungskennwort senden"
 
   signup:
-    create_account_title: "Account anlegen, um Fortschritt zu speichern"
+    create_account_title: "Account anlegen, um Fortschritte zu speichern"
     description: "Es ist kostenlos. Nur noch ein paar Dinge, dann kannst Du loslegen."
     email_announcements: "Erhalte Benachrichtigungen per Email"
     coppa: "Älter als 13 oder nicht aus den USA"
@@ -63,7 +63,7 @@ module.exports = nativeDescription: "Deutsch", englishDescription: "German", tra
 
   home:
     slogan: "Lerne spielend JavaScript"
-    no_ie: "CodeCombat läuft nicht im IE8 oder älteren Browsern. Tut uns Leid!"
+    no_ie: "CodeCombat läuft nicht im IE8 oder älteren Browsern. Das tut uns Leid!"
     no_mobile: "CodeCombat ist nicht für Mobilgeräte optimiert und funktioniert möglicherweise nicht."
     play: "Spielen"
     old_browser: "Oh! Dein Browser ist zu alt für CodeCombat. Sorry!"
@@ -99,10 +99,10 @@ module.exports = nativeDescription: "Deutsch", englishDescription: "German", tra
     forum_prefix: "Für alle öffentlichen Themen, benutze stattdessen "
     forum_page: "unser Forum"
     forum_suffix: "."
-    send: "Sende Feedback"
+    send: "Sende uns ein Feedback"
 
   diplomat_suggestion:
-    title: "Hilf CodeCombat zu übersetzen!"
+    title: "Hilf uns, CodeCombat zu übersetzen!"
     sub_heading: "Wir brauchen Deine Sprachfähigkeiten."
     pitch_body: "Wir entwickeln CodeCombat in Englisch, aber wir haben Spieler in der ganzen Welt. Viele von ihnen wollen in Deutsch spielen, sprechen aber kein Englisch. Wenn Du also beide Sprachen beherrscht, melde Dich an um ein Diplomat zu werden und hilf die Website und die Levels zu Deutsch zu übersetzen."
     missing_translations: "Solange wir nicht alles ins Deutsche übesetzt haben, siehst Du die englische Übersetzung, wo Deutsch leider noch nicht zur Verfügung steht."
@@ -133,10 +133,10 @@ module.exports = nativeDescription: "Deutsch", englishDescription: "German", tra
     admin: "Admin"
     gravatar_select: "Wähle ein Gravatar Bild aus"
     gravatar_add_photos: "Füge Vorschaubilder und Fotos zu Deinem Gravatar Account (für Deine Email) hinzu, um ein Bild auswählen zu können"
-    gravatar_add_more_photos: "Füge mehr Fotos bei deinem Gravatar Account hinzu, um hier mehr Bilder wählen zu können"
+    gravatar_add_more_photos: "Füge mehr Fotos in deinem Gravatar Account hinzu, um hier mehr Bilder wählen zu können"
     wizard_color: "Die Farbe der Kleidung des Zauberers"
     new_password: "Neues Passwort"
-    new_password_verify: "Passwort verifizieren"
+    new_password_verify: "Passwort wiederholen"
     email_subscriptions: "Email Abonnements"
     email_announcements: "Ankündigungen"
     email_notifications: "Benachrichtigungen"
